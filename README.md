@@ -18,9 +18,9 @@ The project is made up of 2 independent parts such that any UI implementation ca
 
 ## Screenshots
 
-![Alt text](/Users/aviv/repos/ConnectFour/settingsScreenshot.png?raw=true "Settings Screenshot")
+![Alt text](../assets/settingsScreenshot.png?raw=true "Settings Screenshot")
 
-![Alt text](/Users/aviv/repos/ConnectFour/gameBoardScreenshot.png?raw=true "Game Board Screenshot")
+![Alt text](../assets/gameBoardScreenshot.png?raw=true "Game Board Screenshot")
 
 ## Credits
 
